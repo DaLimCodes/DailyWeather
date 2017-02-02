@@ -1,0 +1,8 @@
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\DailyWeather\DailyWeather\bin\Debug\DailyWeather.exe.config
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\DailyWeather\DailyWeather\bin\Debug\DailyWeather.exe
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\DailyWeather\DailyWeather\bin\Debug\DailyWeather.pdb
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\DailyWeather\DailyWeather\obj\Debug\DailyWeather.csprojResolveAssemblyReference.cache
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\DailyWeather\DailyWeather\obj\Debug\DailyWeather.NotificationIcon.resources
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\DailyWeather\DailyWeather\obj\Debug\DailyWeather.csproj.GenerateResource.Cache
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\DailyWeather\DailyWeather\obj\Debug\DailyWeather.exe
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\DailyWeather\DailyWeather\obj\Debug\DailyWeather.pdb
